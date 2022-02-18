@@ -3,10 +3,14 @@
 Thermal printer is often referred as receipt printer. It is widely used in restaurants, ATM, shops and many other places where receipts or bill is required. It is a cost-effective solution and very handy to use from the user’s side as well as from the developer’s side. A thermal printer uses a special printing process which uses thermochromic paper or thermal paper for printing. The printer head is heated at a certain temperature that when the thermal paper passes from the print head, the paper coating turns black in the areas where the printer head is heated.
 
 
+
 ![Thermal Printer](https://user-images.githubusercontent.com/98834933/154612158-9fa39a02-2f9b-4f7a-a1fa-c34d5d26c9ce.png)
 
 
+
+
 # Components of Basic Thermal Printer-
+
 1) Power Supply
 2) Microcontroller
 3) Printing Head

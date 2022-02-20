@@ -16,13 +16,14 @@ Thermal printer is often referred as receipt printer. It is widely used in resta
 
 ##  Components of Basic Thermal Printer-
 
-1) Power Supply
-2) Microcontroller
-3) Printing Head
-4) paper Sensor Circuit
-5) Motor Driver
-6) Stepper Motor
-7) Temperature Sensor Circuit
+-  Power Supply
+-  Microcontroller
+-  Printing Head
+-  paper Sensor Circuit
+-  Motor Driver
+-  Stepper Motor
+-  Temperature Sensor Circuit
+-  User Interface
 
 
 
@@ -39,6 +40,8 @@ Thermal printer is often referred as receipt printer. It is widely used in resta
 6) Stepper Motor: It is the main motor which performs  the process of the priting.
 
 7) Temperatue Sensor Circuit: It sense the temperature while burning of the dye and sends the signal to the microcontroller.
+
+8) User Interface: It is the communication between the user and the device, where user gives the command instruction  to the device that printing of a document done.
 
 
 ## pros
@@ -64,3 +67,24 @@ Thermal printer is often referred as receipt printer. It is widely used in resta
 2. If they become too heated to operate, the ink consumed would be more and the printing may not be precise.
 
 3. Printhead could be harmed by the high heat used while printing, often resulting on cost to repair when it break down.
+
+
+
+## High Level Requirements
+
+
+*  Communication between the user and device.
+
+*  Printing of a receipt for comfirmation of transaction.
+
+
+## Low Level Requirements
+
+
+* For communicating with the user ,initially device should configure to the computer to get command from the user by connecting through blueetooth/wifi/usb cable.
+
+* To proceed with the printing User must check the availability of paper and the dye required for the process .
+
+* To get print out of the receipt the user should select or generate the receipt of the transaction and click on the print option in the print window.
+
+

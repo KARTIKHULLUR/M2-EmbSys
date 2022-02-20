@@ -3,7 +3,10 @@
 Thermal printer is often referred as receipt printer. It is widely used in restaurants, ATM, shops and many other places where receipts or bill is required. It is a cost-effective solution and very handy to use from the user’s side as well as from the developer’s side. A thermal printer uses a special printing process which uses thermochromic paper or thermal paper for printing. The printer head is heated at a certain temperature that when the thermal paper passes from the print head, the paper coating turns black in the areas where the printer head is heated.
 
 
+
+
 ![new printer](https://user-images.githubusercontent.com/98834933/154832796-e8d2e5e5-ede7-4c0b-85c0-b964343c799d.png)
+
 
 
 
@@ -32,3 +35,28 @@ Thermal printer is often referred as receipt printer. It is widely used in resta
 6)Stepper Motor: It is the main motor which performs  the process of the priting.
 
 7)Temperatue Sensor Circuit: It sense the temperature while burning of the dye and sends the signal to the microcontroller.
+
+
+# pros
+
+
+1. No involvement of cartridges or ribbons and thus organizations can save investment by using thermal printers.
+
+2. Easier to use as there are less buttons and use of software involved.
+
+3. Popular in noise-free environments and are great for offices.
+
+4. Largely inexpensive and come in various models and sizes.
+
+5. More efficient and faster in printing monochromic ones compared to other forms of printing.
+
+6. More durable compared to other printers.
+
+
+# cons
+
+1. Unlike standard printers, thermal printers usually do not print out colors well.
+
+2. If they become too heated to operate, the ink consumed would be more and the printing may not be precise.
+
+3. Printhead could be harmed by the high heat used while printing, often resulting on cost to repair when it break down.

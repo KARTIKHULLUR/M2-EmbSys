@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##  FITNESS TRACKER
 
 
@@ -52,3 +53,6 @@ A fitness tracker is a device that uses sensors to track your orientation, movem
 
 6) Some trackers do not provide 100% accurate metrics/information that may be shown on the device. Some of that information is just an estimate. Try not to fully rely on these devices.
 
+=======
+
+>>>>>>> 81868931c68e8fa4f5906377824935f7a7bb91dc

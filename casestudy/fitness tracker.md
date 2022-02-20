@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ##  FITNESS TRACKER
 
 
@@ -6,7 +6,7 @@ A fitness tracker is a device that uses sensors to track your orientation, movem
 
 
 
-
+![Capture fitness](https://user-images.githubusercontent.com/98834933/154833398-9fa2e1e5-308c-435e-9d4d-3cbc5f052920.JPG)
 
 
 

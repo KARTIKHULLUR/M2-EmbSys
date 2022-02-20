@@ -1,6 +1,6 @@
 #   Thermal Printer
 
-Thermal printer is often referred as receipt printer. It is widely used in restaurants, ATM, shops and many other places where receipts or bill is required. It is a cost-effective solution and very handy to use from the user’s side as well as from the developer’s side. A thermal printer uses a special printing process which uses thermochromic paper or thermal paper for printing. The printer head is heated at a certain temperature that when the thermal paper passes from the print head, the paper coating turns black in the areas where the printer head is heated.
+Thermal printer is often referred as receipt printer. It is widely used in restaurants, ATM, shops and many other places where receipts or bill is required. It is a cost-effective solution and very handy to use from the user’s side as well as from the developer’s side. A thermal printer uses a special printing process which uses thermochromic paper or thermal paper for printing. The printer head is heated at a certain temperature that when the thermal paper passes from the print head, the paper coating turns black in the areas where the printer head is heated and by this the impression gets printed on the paper.
 
 
 ## Block Diagram
@@ -61,6 +61,7 @@ Thermal printer is often referred as receipt printer. It is widely used in resta
 
 
 ## cons
+
 
 1. Unlike standard printers, thermal printers usually do not print out colors well.
 

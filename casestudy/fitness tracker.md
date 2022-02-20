@@ -55,4 +55,4 @@ A fitness tracker is a device that uses sensors to track your orientation, movem
 
 =======
 
->>>>>>> 81868931c68e8fa4f5906377824935f7a7bb91dc
+

@@ -106,6 +106,9 @@ The Home Automation system is used by installing the setup in the home.
 ![Block_diagram](https://user-images.githubusercontent.com/98834933/155726167-35eaaf96-a941-485d-a876-128704edd590.jpeg)
 
 
+![automation](https://user-images.githubusercontent.com/98834933/155755900-374c709c-e055-44df-9234-472c2c73bfda.JPG)
+
+
 
 
 

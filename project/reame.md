@@ -188,3 +188,8 @@ The Home Automation system is used by installing the setup in the home.
 - System shutdowns when there is a powercut.
 
 - Less Technical security.
+
+
+## Future Scope
+
+- This system can be further upgraded by implementing wireless, and internet  based control of embedded devices and sms based control.

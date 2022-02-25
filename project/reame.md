@@ -4,6 +4,7 @@
 
 ##  Table Of Contents
 
+![index](https://user-images.githubusercontent.com/98834933/155726431-3c2d2419-7e2e-4293-9286-eb15abc1bbae.JPG)
 
 
 ## Indroduction
@@ -94,7 +95,7 @@ The Home Automation system is used by installing the setup in the home.
 ## Block Diagram Description:
 
 
-Microcontroller:
+## Microcontroller:
 
 - A microcontroller (MCU for microcontroller unit) is a small computer on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip.
 
@@ -103,28 +104,28 @@ Microcontroller:
 - ATmega16 is 8-bit AVR microcontroller with 32 I/O pins. It is interfaced with sensors and character LCD to design the circuit of this project.
 
 
-LCD Display:
+## LCD Display:
 
 - LCD stands for Liquid crystal display. 16×2 LCD is named so because it has 16 Columns and 2 Rows.
 
 - A character LCD is interfaced to the controller to display the  temperature and Led light status etc  of the appliances in the home.
 
 
-Temperature Sensor:
+## Temperature Sensor:
 
 - A temperature sensor is a device, usually an RTD (resistance temperature detector) or a thermocouple, that collects the data about temperature from a particular source and converts the data into understandable form for a device or an observer.
 
 - LM35 is a popular temperature sensor. The sensor has three terminals.
 
 
-LDR Sensor:
+## LDR Sensor:
 
 - The LDR sensor is used to detect day or night in this circuit. The LDR sensor is two-terminal light sensitive resistor.
 
 - It is connected as a voltage divider network at bit 0 of Port A of the ATmega32.
 
 
-IR Sensors:
+## IR Sensors:
 
 - There are two IR sensor modules used in the project. The two modules are used to detect entrance and exit of a visitor.
 
@@ -133,22 +134,22 @@ IR Sensors:
 - The emitter is simply an IR LED and the detector is simply an IR photodiode which is sensitive to IR light of the same wavelength as emitted by the IR LED.
 
 
-Stepper Motor:
+## Stepper Motor:
 
 - Complete curtain control via two mode switch and  a Stepper motor.
 
 
-PIR Sensor:
+## PIR Sensor:
 
 -This Passive Infrared Sensor (PIR) module is used for motion detection. It can be uses as motion detector on your robot. It can work from 5V to 9V DC and gives digital output. It requires 10-60 seconds of settling time before starting its operation.
 
 
-Voltage Regulator:
+## Voltage Regulator:
 
 - A voltage regulator is a circuit that creates and maintains a fixed output voltage, irrespective of changes to the input voltage or load conditions.
 
 
-Power Supply:
+## Power Supply:
 
 - The circuit can be powered by a battery and 5V regulator IC like 7805.
 

@@ -181,7 +181,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-## Disvantages
+## Disadvantages
 
 - more cost
 

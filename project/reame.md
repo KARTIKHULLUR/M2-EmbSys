@@ -2,12 +2,14 @@
 
 
 
+
 ##  Table Of Contents
 
 ![index](https://user-images.githubusercontent.com/98834933/155726431-3c2d2419-7e2e-4293-9286-eb15abc1bbae.JPG)
 
 
-## Indroduction
+
+## Introduction
 
 
 - The main purpose of this  project is to develop a system for controlling common home electrical devices using wireless to enable direct control.
@@ -22,9 +24,11 @@
 
 
 
+
 ## Objective
 
 - Our Agenda is to obtain Lighting control of the house, curtain control, Fan control, gate contol and security control of outer portion of house.
+
 
 
 
@@ -95,10 +99,13 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+
 ## Block Diagram:
 
 
 ![Block_diagram](https://user-images.githubusercontent.com/98834933/155726167-35eaaf96-a941-485d-a876-128704edd590.jpeg)
+
+
 
 
 

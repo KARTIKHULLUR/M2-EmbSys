@@ -79,6 +79,9 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+![high level requirement](https://user-images.githubusercontent.com/98834933/155754050-8842b0ac-1fbf-450b-90bc-0c7f06a3a490.JPG)
+
+
 
 
 ## Low Level Requirements
@@ -86,7 +89,14 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+![low level requirement](https://user-images.githubusercontent.com/98834933/155754068-a248961a-1b55-4e7e-ba0d-26e551647c7c.JPG)
+
+
+
+
+
 ## Block Diagram:
+
 
 ![Block_diagram](https://user-images.githubusercontent.com/98834933/155726167-35eaaf96-a941-485d-a876-128704edd590.jpeg)
 

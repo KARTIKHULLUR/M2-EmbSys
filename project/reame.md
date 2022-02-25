@@ -1,7 +1,8 @@
 #  Home Automation System
 
 
-##  Table Of Content
+
+##  Table Of Contents
 
 
 
@@ -19,12 +20,14 @@
 - Security of outer portion is also provided by a motion detecting sensor to alert the owner in case of intrusion.
 
 
+
 ## Objective
 
 - Our Agenda is to obtain Lighting control of the house, curtain control, Fan control, gate contol and security control of outer portion of house.
 
 
-# Swot Analysis
+
+# SWOT  Analysis
 
 
 ## Stength
@@ -82,7 +85,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-Block Diagram:
+## Block Diagram:
 
 
 

@@ -177,6 +177,16 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+
+## FlowChart
+
+
+![Flow chart](https://user-images.githubusercontent.com/98834933/155841354-059541f7-d0e0-464a-82be-07e6990cb64c.jpg)
+
+
+
+
+
 ## Advantages
 
 - Easier to ON and OFF the lights and fan etc.

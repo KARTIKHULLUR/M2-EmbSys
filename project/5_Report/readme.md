@@ -130,10 +130,13 @@ The Home Automation system is used by installing the setup in the home.
 - Motor(actuator)
 
 
+
 ## Software Used
 
 - Simulation( simulIDE )
 - Code( ArduinoIDE )
+
+
 
 
 ## Explanation of Components Used
@@ -156,6 +159,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+
 2. LCD Display
 
 
@@ -167,16 +171,19 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+
+
 3. LEDs
 
 
-![lcd](https://user-images.githubusercontent.com/98834933/157232508-ab245919-b552-449a-95bc-02f03d16b680.jpg)
+![led](https://user-images.githubusercontent.com/98834933/157236849-df0c0768-aa07-468d-a288-6dafb18ac0d0.jpg)
 
 
 
 
 - LED is a light-emitting diode.
 - It is a semi-conductor diode that emits light when conducting current.
+
 
 
 
@@ -226,9 +233,12 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+
+
 ## Structural Diagram
 
 ![structural drawio](https://user-images.githubusercontent.com/98834933/157175769-1ed62857-ecb9-49d2-a6da-e85d398a015f.png)
+
 
 
 
@@ -247,6 +257,8 @@ The Home Automation system is used by installing the setup in the home.
 
 # Test Plan
 
+
+
 ## High Level Test:
 
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
@@ -260,6 +272,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 ## Low Level Test
+
 
 ## Low Level Test for Motion Sensor(Using LED)
 
@@ -276,6 +289,7 @@ The Home Automation system is used by installing the setup in the home.
 ## Low Level Test for Motion Sensor(Using Display)
 
 
+
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
 | :-----: | :---------: | :----------: | :--------:   | :--------: | :--------:|
 | LLT 1.3 | Test for Motion Sensor |  When Switch is High | Motion Detected | Motion Detected | Pass |
@@ -286,7 +300,9 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+
 ## Low Level Test for LDR Sensor(Using LED)
+
 
 
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
@@ -298,7 +314,9 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+
 ## Low Level Test for LDR Sensor(Using Display)
+
 
 
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
@@ -311,7 +329,9 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+
 ## Low Level Test for Temperature Sensor(Using Motor)
+
 
 
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
@@ -329,6 +349,8 @@ The Home Automation system is used by installing the setup in the home.
 | :-----: | :---------: | :----------: | :--------:   | :--------: | :--------:|
 | LLT 3.3 | Test for Temperature Sensor |  For the simulation of Temperature sensor it is replaced by Potentiometer(Initial stage) | TEMPERATURE=0 *c | TEMPERATURE=0 *C| Pass |
 | LLT 3.4 | Test for Temperature Sensor |  When Potentiometer is slightly increased | TEMPERATURE= 45 *C | TEMPERATURE= 45 *C | Pass |
+
+
 
 
 
@@ -376,7 +398,10 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+
+
 # Advantages
+
 
 - Easier to ON and OFF the lights and fan etc.
 
@@ -394,6 +419,7 @@ The Home Automation system is used by installing the setup in the home.
 
 # Disadvantages
 
+
 -Installiation is costly
 
 -Works only when the object or user is in the range of sensor
@@ -403,7 +429,9 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
+
 # Application
+
 
 -Industries, Residential , Commercial Purpose
 

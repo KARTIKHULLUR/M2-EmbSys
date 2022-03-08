@@ -12,15 +12,14 @@
 ## Introduction
 
 
-- The main purpose of this  project is to develop a system for controlling common home electrical devices using wireless to enable direct control.
+- The main purpose of this  project is to develop a system for controlling common home electrical devices based on the conditions noticed.
 
 - Taking our first module into consideration our first requirement was to establish a control which can be both automatic and manual. The automatic control relies on contolling of relay using RF signal.
 
-- Second is curtain control which is also working in two modes namely automatic and manual .In automatic mode curtains gets lifted up as soon as sun rises with the help of a LDR. In manual mode a complete control is given to user for lifting curtain up and down.
+- In addition motor shall be ON  when the temperatere is increased than the rated value and fan shall be turned OFF when the temperature is under the rated value which requires a relay.
 
-- Fan controlling is  provided as our third module  which requires a relay.
+- Led is blinked when Motion sensor detects any  moving object inside/entrance of the home to alert the owner in case of intrusion. 
 
-- Security of outer portion is also provided by a motion detecting sensor to alert the owner in case of intrusion.
 
 
 

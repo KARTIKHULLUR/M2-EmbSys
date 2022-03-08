@@ -16,6 +16,7 @@
 
 ## Low Level Test for Motion Sensor(Using LED)
 
+
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
 | :-----: | :---------: | :----------: | :--------:   | :--------: | :--------:|
 | LLT 1.1 | Test for Motion Sensor |  In the simulation, motion sensor is replaced by Switch( when switch is high) | Led ON | Led ON | Pass |
@@ -26,6 +27,7 @@
 
 
 ## Low Level Test for Motion Sensor(Using Display)
+
 
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
 | :-----: | :---------: | :----------: | :--------:   | :--------: | :--------:|
@@ -39,6 +41,7 @@
 
 ## Low Level Test for LDR Sensor(Using LED)
 
+
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
 | :-----: | :---------: | :----------: | :--------:   | :--------: | :--------:|
 | LLT 2.1 | Test for LDR Sensor |  In the simulation, LDR sensor is replaced by Switch( when switch is high) | Led OFF | Led OFF | Pass |
@@ -49,6 +52,7 @@
 
 
 ## Low Level Test for LDR Sensor(Using Display)
+
 
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
 | :-----: | :---------: | :----------: | :--------:   | :--------: | :--------:|
@@ -62,6 +66,7 @@
 
 ## Low Level Test for Temperature Sensor(Using Motor)
 
+
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
 | :-----: | :---------: | :----------: | :--------:   | :--------: | :--------:|
 | LLT 3.1 | Test for Temperature Sensor |  For the simulation of Temperature sensor it is replaced by Potentiometer(High) | Motor ON | Motion ON | Pass |
@@ -71,6 +76,7 @@
 
 
 ## Low Level Test for Temperature Sensor(Using Display)
+
 
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
 | :-----: | :---------: | :----------: | :--------:   | :--------: | :--------:|

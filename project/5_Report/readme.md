@@ -210,7 +210,8 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-1. Arduino
+
+ ## 1.Arduino
 
 
 ![arduino](https://user-images.githubusercontent.com/98834933/157231813-f356075a-4e9d-4ad4-ab59-154140476523.png)
@@ -226,7 +227,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-2. LCD Display
+ ## 2.LCD Display
 
 
 ![lcd](https://user-images.githubusercontent.com/98834933/157232192-c4ed79bc-0f48-4685-8598-6d67274010a3.jpg)
@@ -239,7 +240,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-3. LEDs
+ ## 3.LEDs
 
 
 ![led](https://user-images.githubusercontent.com/98834933/157236849-df0c0768-aa07-468d-a288-6dafb18ac0d0.jpg)
@@ -253,7 +254,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-4. Sensors
+ ## 4.Sensors
 
 - Temperature sensor is used in the project for turning ON/OFF of the Motor. 
 - Motion sensor is used for the detection of the objects.
@@ -262,7 +263,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-5. Relay
+ ## 5.Relay
 
 
 ![relay](https://user-images.githubusercontent.com/98834933/157232679-3c7ae747-1896-4241-a54e-3989f4d50eda.png)
@@ -277,7 +278,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-6. Motor
+ ## 6.Motor
 
 
 ![motor](https://user-images.githubusercontent.com/98834933/157234539-0112b75d-78ba-47e9-b228-e0fba6e6f8ff.png)

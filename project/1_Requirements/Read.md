@@ -70,10 +70,10 @@ The Home Automation system is used by installing the setup in the home.
 
 | RID | Description |
 | :---: | :------: |
-| HLR1 | Home shall be Automated |
-| HLR2 | System shall sense the motion |
-| HLR3 | System shall sense the light intensity |
-| HLR4 | System shall sense the temperature |
+| HLR1 |Home shall be Automated |
+| HLR2 |System shall sense the motion |
+| HLR3 |System shall sense the light intensity |
+| HLR4 |System shall sense the temperature |
 
 
  ## Low Level Requirements

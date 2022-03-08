@@ -6,33 +6,50 @@
 ##  Table of Content:
 
 -   i.About Smart Automation System
--1.1 Abstract
--1.2 Introduction
--1.3 Objective
--1.4 Swot Analysis
--1.4W's and 1H
+
+- 1.1 Abstract
+- 1.2 Introduction
+- 1.3 Objective
+- 1.4 Swot Analysis
+- 1.5 W's and 1H
+
+
 
 -   ii. Requirements
--2.1 High Level Requirements
--2.2 Low Level Requirements
+ 
+- 2.1 High Level Requirements
+- 2.2 Low Level Requirements
+
+
 
 -   iii. Block Diagram
--3.1 Explanation of Blocks
--3.2 Sub system and explaination
+  
+- 3.1 Explanation of Blocks
+- 3.2 Sub system and explaination
+
+
 
 -   iv. Architecture
--4.1 Flow chart
--4.2 Structural Diagram
--4.3 UML Diagram
+- 4.1 Flow chart
+- 4.2 Structural Diagram
+- 4.3 UML Diagram
+
+
 
 -    v. Test plan and output
--5.1 High Level Test
--5.2 Low Level Test
--5.3 Simulation Vide0
+    
+- 5.1 High Level Test
+- 5.2 Low Level Test
+- 5.3 Simulation Vide0
+
+
 
 -    vi.Advantages and Disadvantages
--6.1 Advantages
--6.2 Disadvantages
+   
+- 6.1 Advantages
+- 6.2 Disadvantages
+
+
 
 -   vii. Application
 
@@ -40,7 +57,7 @@
 
 
 
-## Abstract
+# Abstract
 
 
 - With advancement of technology things are becoming simpler and easier for us.
@@ -48,7 +65,7 @@
 - Automatic systems are being preferred over manual system.
 
 
-## Introduction
+# Introduction
 
 
 - The main purpose of this  project is to develop a system for controlling common home electrical devices based on the conditions noticed.
@@ -63,7 +80,7 @@
 
 
 
-## Objective
+# Objective
 
 - Our Agenda is to obtain Lighting control of the house, curtain control, Fan control, gate contol and security control of outer portion of house.
 
@@ -149,7 +166,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-## Block Diagram:
+# Block Diagram:
 
 
 
@@ -264,7 +281,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-## Flow chart
+# Flow chart
 
 
 ![flow chart](https://user-images.githubusercontent.com/98834933/157175746-adecad15-256c-4366-801f-5ab14eb7985d.jpg)
@@ -273,7 +290,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-## Structural Diagram
+# Structural Diagram
 
 ![structural drawio](https://user-images.githubusercontent.com/98834933/157175769-1ed62857-ecb9-49d2-a6da-e85d398a015f.png)
 
@@ -281,7 +298,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-## Uml Diagram
+# Uml Diagram
 
 
 ![uml diagram](https://user-images.githubusercontent.com/98834933/157175757-f765be0f-0b35-477e-9e82-55d14e782a17.png)
@@ -399,37 +416,37 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-# LED 2 gets Turned On when LDR(switch) is OFF
+## LED 2 gets Turned On when LDR(switch) is OFF
 
 ![light on](https://user-images.githubusercontent.com/98834933/157223917-df32ce6c-7c3c-4794-ab12-7d76168c4358.JPG)
 
 
 
-# LED 2 gets Turned OFF when LDR(switch) is ON
+## LED 2 gets Turned OFF when LDR(switch) is ON
 
 ![light off](https://user-images.githubusercontent.com/98834933/157223935-1d97e29c-ec54-4db5-bc73-6fb6f08136c0.JPG)
 
 
 
-# Fan is turned OFF when Temperature is <30 *c(normal conditon)
+## Fan is turned OFF when Temperature is <30 *c(normal conditon)
 
 ![fan off normal](https://user-images.githubusercontent.com/98834933/157223959-55c21091-9f36-4aa1-a4dc-5f6ddbebef37.JPG)
 
 
 
-# Fan is turned ON when Temperature is >30 *c(abnormal conditon)
+## Fan is turned ON when Temperature is >30 *c(abnormal conditon)
 
 ![fan On abnormal](https://user-images.githubusercontent.com/98834933/157223986-0809e8cf-aa3e-4754-be61-44f56e3c22e1.JPG)
 
 
 
-# LED 1 is turned OFF when Motion sensor(switch) is OFF
+## LED 1 is turned OFF when Motion sensor(switch) is OFF
 
 ![motion not detect](https://user-images.githubusercontent.com/98834933/157224012-7d6726f1-0abf-468c-bc22-55f656f4193c.JPG)
 
 
 
-# LED 1 is turned ON when Motion sensor(switch) is ON
+## LED 1 is turned ON when Motion sensor(switch) is ON
 
 ![motion detected](https://user-images.githubusercontent.com/98834933/157224035-68c76459-6bd0-45dd-983e-0a7ddaa64cfc.JPG)
 
@@ -437,7 +454,7 @@ The Home Automation system is used by installing the setup in the home.
 
 
 
-## Simulation Video
+# Simulation Video
 
 
 

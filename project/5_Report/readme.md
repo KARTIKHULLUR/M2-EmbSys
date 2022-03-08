@@ -83,6 +83,8 @@
 
 - In addition motor shall be ON  when the temperatere is increased than the rated value and fan shall be turned OFF when the temperature is under the rated value which requires a relay.
 
+- Furthermore Light is turned ON based on the signal received by the LDR sensor.
+
 - Led is blinked when Motion sensor detects any  moving object inside/entrance of the home to alert the owner in case of intrusion. 
 
 
@@ -111,7 +113,7 @@
 - Complex technology.
 - Technical security threats..
 
-## Oppurtunities
+## Opportunities
 
 - Advancement in the technology.
 - Security.

@@ -2,11 +2,50 @@
 #  Automation System For Smart Home
 
 
-##  Table of Contents
+
+##  Table of Content:
+
+-   i.About Smart Automation System
+-1.1 Abstract
+-1.2 Introduction
+-1.3 Objective
+-1.4 Swot Analysis
+-1.4W's and 1H
+
+-   ii. Requirements
+-2.1 High Level Requirements
+-2.2 Low Level Requirements
+
+-   iii. Block Diagram
+-3.1 Explanation of Blocks
+-3.2 Sub system and explaination
+
+-   iv. Architecture
+-4.1 Flow chart
+-4.2 Structural Diagram
+-4.3 UML Diagram
+
+-    v. Test plan and output
+-5.1 High Level Test
+-5.2 Low Level Test
+-5.3 Simulation Vide0
+
+-    vi.Advantages and Disadvantages
+-6.1 Advantages
+-6.2 Disadvantages
+
+-   vii. Application
 
 
 
 
+
+## Abstract
+
+
+- With advancement of technology things are becoming simpler and easier for us.
+- Automation plays an increasingly important role in the world economy and in daily experience.
+- Automatic systems are being preferred over manual system.
 
 
 ## Introduction

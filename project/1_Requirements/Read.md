@@ -80,6 +80,7 @@ The Home Automation system is used by installing the setup in the home.
  ## Low Level Requirements
 
 
+
 | RID | Description |
 | :---: | :------: |
 | LLR1 | Led shall be turned ON and shall be displayed if Motion sensor detects |

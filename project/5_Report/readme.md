@@ -450,3 +450,10 @@ https://user-images.githubusercontent.com/98834933/157240719-1250ab44-0e12-4b05-
 -Smart Home Appliances.
 
 -safety and security, etc.
+
+
+
+## Future Scope
+
+- This system can be further upgraded by implementing wireless, and internet  based control of embedded devices and sms based control.
+

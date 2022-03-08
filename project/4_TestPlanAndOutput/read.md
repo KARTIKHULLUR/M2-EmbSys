@@ -10,6 +10,8 @@
 
 
 
+
+
 ## Low Level Test
 
 ## Low Level Test for Motion Sensor(Using LED)
@@ -18,6 +20,8 @@
 | :-----: | :---------: | :----------: | :--------:   | :--------: | :--------:|
 | LLT 1.1 | Test for Motion Sensor |  In the simulation, motion sensor is replaced by Switch( when switch is high) | Led ON | Led ON | Pass |
 | LLT 1.2 | Test for Motion Sensor | When the switch is low  | Led OFF | Led OFF | Pass |
+
+
 
 
 
@@ -32,12 +36,15 @@
 
 
 
+
 ## Low Level Test for LDR Sensor(Using LED)
 
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
 | :-----: | :---------: | :----------: | :--------:   | :--------: | :--------:|
 | LLT 2.1 | Test for LDR Sensor |  In the simulation, LDR sensor is replaced by Switch( when switch is high) | Led OFF | Led OFF | Pass |
 | LLT 2.2 |  Test for LDR Sensor | When the switch is low | Led ON | Led ON | Pass |
+
+
 
 
 
@@ -51,12 +58,16 @@
 
 
 
+
+
 ## Low Level Test for Temperature Sensor(Using Motor)
 
 | Test id | Description | Expected i/p | Expected o/p | Actual o/p | Pass/Fail |
 | :-----: | :---------: | :----------: | :--------:   | :--------: | :--------:|
 | LLT 3.1 | Test for Temperature Sensor |  For the simulation of Temperature sensor it is replaced by Potentiometer(High) | Motor ON | Motion ON | Pass |
 | LLT 3.2 | Test for Temperature Sensor |  When Potentiometer is Low | motor OFF | Motor OFF | Pass |
+
+
 
 
 ## Low Level Test for Temperature Sensor(Using Display)

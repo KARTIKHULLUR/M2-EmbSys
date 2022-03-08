@@ -125,3 +125,22 @@
 # LED 1 is turned ON when Motion sensor(switch) is ON
 
 ![motion detected](https://user-images.githubusercontent.com/98834933/157224035-68c76459-6bd0-45dd-983e-0a7ddaa64cfc.JPG)
+
+
+
+
+
+
+
+
+## Simulation Video
+
+
+
+https://user-images.githubusercontent.com/98834933/157240719-1250ab44-0e12-4b05-a31e-3e8874e3ec0d.mp4
+
+
+
+
+
+

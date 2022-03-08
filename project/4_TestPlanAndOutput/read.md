@@ -92,13 +92,13 @@
 
 
 
-# LED gets Turned On when LDR(switch) is OFF
+# LED 2 gets Turned On when LDR(switch) is OFF
 
 ![light on](https://user-images.githubusercontent.com/98834933/157223917-df32ce6c-7c3c-4794-ab12-7d76168c4358.JPG)
 
 
 
-# LED gets Turned OFF when LDR(switch) is ON
+# LED 2 gets Turned OFF when LDR(switch) is ON
 
 ![light off](https://user-images.githubusercontent.com/98834933/157223935-1d97e29c-ec54-4db5-bc73-6fb6f08136c0.JPG)
 
@@ -116,12 +116,12 @@
 
 
 
-# LED is turned OFF when Motion sensor(switch) is OFF
+# LED 1 is turned OFF when Motion sensor(switch) is OFF
 
 ![motion not detect](https://user-images.githubusercontent.com/98834933/157224012-7d6726f1-0abf-468c-bc22-55f656f4193c.JPG)
 
 
 
-# LED is turned ON when Motion sensor(switch) is ON
+# LED 1 is turned ON when Motion sensor(switch) is ON
 
 ![motion detected](https://user-images.githubusercontent.com/98834933/157224035-68c76459-6bd0-45dd-983e-0a7ddaa64cfc.JPG)

@@ -5,7 +5,11 @@
 
 ##  Table of Content:
 
--   i.About Smart Automation System
+
+
+
+
+   ##  i. About Smart Automation System
 
 - 1.1 Abstract
 - 1.2 Introduction
@@ -15,28 +19,28 @@
 
 
 
--   ii. Requirements
+   ## ii. Requirements
  
 - 2.1 High Level Requirements
 - 2.2 Low Level Requirements
 
 
 
--   iii. Block Diagram
+   ## iii. Block Diagram
   
 - 3.1 Explanation of Blocks
 - 3.2 Sub system and explaination
 
 
 
--   iv. Architecture
+   ## iv. Architecture
 - 4.1 Flow chart
 - 4.2 Structural Diagram
 - 4.3 UML Diagram
 
 
 
--    v. Test plan and output
+-    ## v. Test plan and output
     
 - 5.1 High Level Test
 - 5.2 Low Level Test
@@ -44,14 +48,19 @@
 
 
 
--    vi.Advantages and Disadvantages
+    ## vi.Advantages and Disadvantages
    
 - 6.1 Advantages
 - 6.2 Disadvantages
 
 
 
--   vii. Application
+   ## vii. Application
+
+
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 
 - The main purpose of this  project is to develop a system for controlling common home electrical devices using wireless to enable direct control.
@@ -14,7 +14,7 @@
 
 
 
-## Objective
+#  Objective
 
 - Our Agenda is to obtain Lighting control of the house, curtain control, Fan control, gate contol and security control of outer portion of house.
 
@@ -42,9 +42,11 @@
 - Security.
 - SMS message configuration to the user...
 
-## threats
+## Threats
 
 - Failure of power supply leads to shut down of the complete system..
+
+
 
 
 # 4W's and 1H
@@ -65,6 +67,8 @@ This system is used in the home,apartments,offices etc..
 The Home Automation system is used by installing the setup in the home.
 
 
+
+
 ## High Level Requirements
 
 
@@ -74,6 +78,7 @@ The Home Automation system is used by installing the setup in the home.
 | HLR2 | System shall sense the motion |
 | HLR3 | System shall sense the light intensity |
 | HLR4 | System shall sense the temperature |
+
 
 
 
